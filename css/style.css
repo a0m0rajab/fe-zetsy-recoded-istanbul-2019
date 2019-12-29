@@ -4,6 +4,18 @@
 	src: url(../fonts/Baskerville.ttc);
 }
 
+#featured a {
+	color: #1783bb;
+	text-decoration: none;
+}
+
+#featured a:hover {
+	text-decoration: underline;
+}
+
+#press {
+	margin-bottom: 20px;
+}
 
 * {
 	padding: 0;
@@ -69,17 +81,5 @@ header a:hover {
 footer {
 	text-align: right;
 	background: #fff;
-}
-#featured a {
-	color: #1783bb;
-	text-decoration: none;
-}
-
-#featured a:hover {
-	text-decoration: underline;
-}
-
-#press {
-	margin-bottom: 20px;
 }
 
